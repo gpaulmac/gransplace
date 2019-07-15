@@ -1,0 +1,10 @@
+<style type="text/css"
+.rooms {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+}
+</style>
+{{#rooms}}
+  <div class="col-md-6 rooms">{{name}} -- {{neighborhood}}</div>
+{{/rooms}}

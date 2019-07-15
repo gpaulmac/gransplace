@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Gransplace</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+     <base href="/">
+    <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="css/style.css" rel="stylesheet">
+     <style type="text/css" id="gwd-text-style">
+     #mapCanvas1 {
+    width: 100%;
+    height: 100%;
+}
+     </style>
+     <script type='text/javascript' src="js/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/json2html/1.2.0/json2html.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.0/mustache.min.js"></script>
+     <script type='text/javascript' src="js/bootstrap.min.js"></script>
+     <script type='text/javascript' src="js/scripts.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwfiNoMTOEtN-IS7M4ChAAaCQxzkFcaPM"></script>
+     <script>
+       function initMap() {
+           var map;
+           var bounds = new google.maps.LatLngBounds();
+           var mapOptions = {
+             mapTypeId: 'roadmap'
+           };
+
+           // Display a map on the web page
+           map = new google.maps.Map(document.getElementById("mapCanvas"), mapOptions);
+           map.setTilt(50);
+
+           // Multiple markers location, latitude, and longitude
+           var markers = [
+             ['Indoorpilly state school', -27.499218, 152.966812],
+             ['vt clinic', -27.500303, 152.966490],
+             ['shopping center', -27.499028, 152.973915]
+           ];
+
+           // Info window content
+           var infoWindowContent = [
+             ['<div class="info_content">' +
+               '<h3>state school</h3>' +
+               '<p>state school.</p>' + '</div>'
+             ],
+             ['<div class="info_content">' +
+           '<h3>vt clinic</h3>' +
+           '<p>vt clinic.</p>' +
+           '</div>'
+         ],
+         ['<div class="info_content">' +
+           '<h3>shopping center</h3>' +
+           '<p>shopping center</p>' +
+           '</div>'
+         ]
+       ];
+
+       // Add multiple markers to map
+       var infoWindow = new google.maps.InfoWindow(),
+         marker, i;
+
+       // Place each marker on the map
+       for (i = 0; i < markers.length; i++) {
+         var position = new google.maps.LatLng(markers[i][1], markers[i][2]);
+         bounds.extend(position);
+         marker = new google.maps.Marker({
+           position: position,
+           map: map,
+           title: markers[i][0]
+         });
+         // Add info window to marker
+         google.maps.event.addListener(marker, 'click', (function(marker, i) {
+           return function() {
+             infoWindow.setContent(infoWindowContent[i][0]);
+             infoWindow.open(map, marker);
+           }
+         })(marker, i));
+
+         // Center the map to fit all markers on the screen
+         map.fitBounds(bounds);
+       }
+
+       // Set zoom level
+       var boundsListener = google.maps.event.addListener((map), 'bounds_changed', function(event) {
+         this.setZoom(14);
+         google.maps.event.removeListener(boundsListener);
+       });
+
+     }
+     // Load initialize function
+   google.maps.event.addDomListener(window, 'load', initMap);
+ </script>
+
+  </head>
+  <body>
+
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-8">Gransplace
+		</div>
+		<div class="col-md-1">List for free
+		</div>
+		<div class="col-md-1">Support
+		</div>
+		<div class="col-md-1">Login
+		</div>
+		<div class="col-md-1">Signup
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-7"> </br></br>
+      <div id="leftnav">
+      <script>
+    var t = {'<>':'div','html':'${title} ${year}'};
+
+
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: '/ajaxData',
+            data: { get_param: 'value' },
+            success: function (data) {
+                //var json = $.parseJSON(data);
+                 var jsonData = JSON.parse(data);
+                 var html = Mustache.to_html(jsonData.template, jsonData);
+                $('#leftnav').html(html);
+            }
+        });
+    });
+    var d = [
+        {"title":"Heat","year":"1995"},
+        {"title":"Up","year":"2009"},
+        {"title":"Snatch","year":"2000"},
+        {"title":"Up","year":"2009"},
+        {"title":"Unforgiven","year":"1992"},
+        {"title":"Amadeus","year":"1984"}
+    ];
+
+  //  document.write( json2html.transform(d,t) );
+    </script>
+
+  </div>
+		</div>
+		<div class="col-md-5">
+      <div id="mapCanvas" style="height:750px; width:100%; position: fixed;z-index: 0;"></div>
+		</div>
+	</div>
+</div>
+  </body>
+</html>

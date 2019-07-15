@@ -1,0 +1,1302 @@
+{
+  "current_user": false,
+  "template": "<style type=\"text/css\"> .rooms {width: 300px;height: 100px;border: 0.1px solid black;}</style><div class=\"row\">{{#rooms}}<div class=\"col-lg-6 rooms\">{{name}} -- {{neighborhood}}</div>{{/rooms}}</div>",
+  "rooms": [
+    {
+      "id": 240,
+      "name": "Large room near public transit ($500 with simple childcare)",
+      "lat": 42.3172846,
+      "lng": -71.0730137,
+      "price": "500.0",
+      "available_date": "Now",
+      "civic_badge": true,
+      "neighborhood": "Dudley / Brunswick King, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2900/thumb/17855471_1626827063997326_2937286620135846178_o_%281%29.jpg?1548454202",
+      "user_id": 2900,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1431/medium/Florence_Bedroom_cropped.png?1548432200"
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Room in somewhat rural area with good size back yard",
+      "lat": 42.1527465,
+      "lng": -71.6571611,
+      "price": "650.0",
+      "available_date": "Now",
+      "civic_badge": true,
+      "neighborhood": "Northbridge, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4052/thumb/meandbike.jpg?1552573362",
+      "user_id": 4052,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2533/medium/bedroom.jpg?1552420413"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Come share my Victorian",
+      "lat": 42.6303743,
+      "lng": -71.3329877,
+      "price": "700.0",
+      "available_date": "Now",
+      "civic_badge": true,
+      "neighborhood": "Highlands, Lowell",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/1809/thumb/IMG_1161_%281%29.jpg?1548454549",
+      "user_id": 1809,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1936/medium/IMG_0186_%281%29.jpg?1548439404"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Cozy West Roxbury home",
+      "lat": 42.2657719,
+      "lng": -71.1529862,
+      "price": "750.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "West Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2834/thumb/MVIMG_20181014_094528.jpg?1548454352",
+      "user_id": 2834,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2151/medium/CBD_Pixel.png?1548442963"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Respectable living in peaceful area with nice yard ",
+      "lat": 42.6234662,
+      "lng": -71.2941722,
+      "price": "750.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "South Lowell, Lowell",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 2966,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1451/medium/IMG_20180820_172921542.jpg?1548432506"
+      ]
+    },
+    {
+      "id": 433,
+      "name": "Pretty room in house with yard, quiet st.",
+      "lat": 42.2788327,
+      "lng": -71.131876,
+      "price": "760.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roslindale, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4187/thumb/16C4816F-72A6-4ECC-AA90-ED8034373379.jpeg?1553537967",
+      "user_id": 4187,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2615/medium/FC5EE4A5_E478_425B_B68D_676CEEC00B66.jpeg?1553538626"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Large room in a central location",
+      "lat": 42.3208977,
+      "lng": -71.083738,
+      "price": "800.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
+      "user_id": 12,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1384/medium/living_room2.JPG?1548430952"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Spacious and quiet Victorian house - bedroom 1",
+      "lat": 42.3094391,
+      "lng": -71.0716673,
+      "price": "800.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
+      "user_id": 2985,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1492/medium/image.jpg?1548432973"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Walkable family home near public transportation",
+      "lat": 42.285137,
+      "lng": -71.1432502,
+      "price": "800.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roslindale, Boston",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 3141,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2400/medium/Roslindale_Sign.jpg?1550072907"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Wildflower Farm Periwinkle Room",
+      "lat": 42.397404,
+      "lng": -71.6494665,
+      "price": "800.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Berlin, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
+      "user_id": 2566,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2177/medium/20161020_121749-EFFECTS.jpg?1548448369"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Furnished room in Ashmont Hill",
+      "lat": 42.2861504,
+      "lng": -71.0698799,
+      "price": "850.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/47/thumb/F05669D7-24B5-4C7A-9187-200A33B28BB7.JPG?1548454667",
+      "user_id": 47,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1547/medium/child's_bedroom2.jpg?1548433893"
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Furnished Melville Park Room, Shawmut station",
+      "lat": 42.2937818,
+      "lng": -71.0664115,
+      "price": "900.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
+      "user_id": 41,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2780/medium/Karla5.png?1556635022"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Nice large Roslindale Apt",
+      "lat": 42.279125,
+      "lng": -71.135624,
+      "price": "900.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roslindale, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3376/thumb/IMG_20190605_121708.jpg?1559751480",
+      "user_id": 3376,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1990/medium/Room317.png?1548440147"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maple Street West Roxbury",
+      "lat": 42.2940971,
+      "lng": -71.1597166,
+      "price": "900.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "West Roxbury, Boston",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 89,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1572/medium/Room40.png?1548434119"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Home Away from Home Room 2",
+      "lat": 42.3355246,
+      "lng": -71.1332934,
+      "price": "910.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Aspinwall Hill, Brookline",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
+      "user_id": 3317,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2644/medium/Screen_Shot_2019_03_27_at_5.41.51_PM.png?1553723068"
+      ]
+    },
+    {
+      "id": 502,
+      "name": "JP Gated community condo (pool,tennis courts,gym)",
+      "lat": 42.3211522,
+      "lng": -71.1235806,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Jamaica Plain, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14818/thumb/Philip_Levine_.png?1558446932",
+      "user_id": 14818,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2957/medium/DSC05947.JPG?1560868336"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Rozie's Place ",
+      "lat": 42.4056205,
+      "lng": -70.9937103,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Revere, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/1370/thumb/D2FAC700-F69A-40A2-979F-2AD3174A88C7.jpeg?1548453771",
+      "user_id": 1370,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1602/medium/FDA4B42D-93CF-43A8-B405-304AC61DAE51.jpg?1548434410"
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Jack's Home Fairmount Ave Hyde Park",
+      "lat": 42.2507817,
+      "lng": -71.1161876,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Hyde Park, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14444/thumb/Jack_in_his_yeard_October__6__2011.JPG?1557280584",
+      "user_id": 14444,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2700/medium/Screen_Shot_2019_04_04_at_5.48.12_PM.png?1554414537"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Dog-friendly home in HUGE house- Furnished room",
+      "lat": 42.129461,
+      "lng": -71.0404648,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Avon, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3142/thumb/20884c69-a9b7-4186-a91c-b19b567e831d.jpg?1548453028",
+      "user_id": 3142,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1681/medium/063d6ec7-6ff8-44ab-9cf6-ef15128be2a7.jpg?1548435236"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Wendy's House",
+      "lat": 42.4925964,
+      "lng": -71.3940808,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Concord, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3328/thumb/Wendy_Cowen_Profile_Picture.jpg?1548452312",
+      "user_id": 3328,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1980/medium/listing315_faith120618_8_-_BEDROOM.jpg?1548440097"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "10 Room House on 2 Acres",
+      "lat": 42.6897304,
+      "lng": -71.5601318,
+      "price": "1000.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Pepperell, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4131/thumb/NECC_Photo1.jpg?1552699946",
+      "user_id": 4131,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2552/medium/house_front.JPG?1552699705"
+      ]
+    },
+    {
+      "id": 400,
+      "name": "3rd fl. bedroom in triple decker, Roxbury family home",
+      "lat": 42.3221576,
+      "lng": -71.07436,
+      "price": "1020.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
+      "user_id": 3954,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2440/medium/20140104_111008.jpg?1550845768"
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Room for two in triple decker, Roxbury family home",
+      "lat": 42.3221576,
+      "lng": -71.07436,
+      "price": "1020.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
+      "user_id": 3954,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2451/medium/Screen_Shot_2019_02_22_at_12.36.01_PM.png?1550857460"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Wildflower Farm Music Room",
+      "lat": 42.397404,
+      "lng": -71.6494665,
+      "price": "1100.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Berlin, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
+      "user_id": 2566,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2167/medium/Wildflower_14.jpg?1548448217"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Private basement apt (+ bath) in Lincoln ",
+      "lat": 42.409183,
+      "lng": -71.3472034,
+      "price": "1200.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Lincoln, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3049/thumb/IMG_5724.jpg?1561672436",
+      "user_id": 3049,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1571/medium/Screen_Shot_2018-11-28_at_2.55.34_PM.png?1548434053"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Serviced Apartment. Coffee, Wifi, Kitchen",
+      "lat": 42.6343836,
+      "lng": -71.3408484,
+      "price": "1300.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Highlands, Lowell",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2960/thumb/16403366_10154952487043735_1557864779784015500_o.jpg?1548454168",
+      "user_id": 2960,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1445/medium/11.JPG?1548432291"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Quiet Franklin Home",
+      "lat": 42.1254408,
+      "lng": -71.4331719,
+      "price": "1300.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Franklin, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3039/thumb/view.jpg?1548454026",
+      "user_id": 3039,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1570/medium/pool.jpg?1548434022"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Lovely home on clean and quiet neighborhood",
+      "lat": 42.0819404,
+      "lng": -71.0632432,
+      "price": "1400.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Brockton, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3751/thumb/MathieuR_FB03.jpg?1548878812",
+      "user_id": 3751,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2300/medium/rent_kitchen_for_zillow_nesterly_hotpad.jpg?1548876728"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Rooms in Winter Hill with dinners cooked by chef",
+      "lat": 42.3945971,
+      "lng": -71.0997078,
+      "price": "1450.0",
+      "available_date": "Now",
+      "civic_badge": false,
+      "neighborhood": "Winter Hill, Somerville",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/38/thumb/pronto_copy.jpg?1548454764",
+      "user_id": 38,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1505/medium/7a_Schulman_Twin_Room1.JPG?1548433271"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "unfurnished bedroom with pool access",
+      "lat": 42.1523826,
+      "lng": -71.7892849,
+      "price": "500.0",
+      "available_date": "07/15/2019",
+      "civic_badge": true,
+      "neighborhood": "Sutton, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14966/thumb/IMG_3450.jpg?1558088723",
+      "user_id": 14966,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2865/medium/7F4A8739_BFA6_4164_9DB7_89CFEE820C1C.jpeg?1558388107"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Victorian Cottage on the Charles",
+      "lat": 42.3254681,
+      "lng": -71.2638022,
+      "price": "850.0",
+      "available_date": "07/15/2019",
+      "civic_badge": false,
+      "neighborhood": "Wellesley Lower Falls, Wellesley",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
+      "user_id": 3195,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2559/medium/D9D710A1_C946_4D8C_886D_3607C3CD936C.jpeg?1552757766"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Second Empire Victorian Cottage: Master Bedroom ",
+      "lat": 42.3254681,
+      "lng": -71.2638022,
+      "price": "1100.0",
+      "available_date": "07/15/2019",
+      "civic_badge": false,
+      "neighborhood": "Wellesley Lower Falls, Wellesley",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
+      "user_id": 3195,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1851/medium/BCB91E1E-DD9A-49C6-93ED-955A5EC74C1C.jpeg?1548438202"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Gorgeous, spacious, clean, peaceful.",
+      "lat": 42.5728269,
+      "lng": -71.7941614,
+      "price": "1100.0",
+      "available_date": "07/15/2019",
+      "civic_badge": false,
+      "neighborhood": "Fitchburg, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15342/thumb/20190405_152019.jpg?1562871075",
+      "user_id": 15342,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/3000/medium/Jason2.jpg?1562939770"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Serene, Hyde Park Bedroom with Backyard",
+      "lat": 42.2649339,
+      "lng": -71.115326,
+      "price": "750.0",
+      "available_date": "07/27/2019",
+      "civic_badge": false,
+      "neighborhood": "Hyde Park, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3789/thumb/20180818_140945_001.jpg?1548993750",
+      "user_id": 3789,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2773/medium/53379728_10155910053551319_3218170646445948928_n.jpg?1556562693"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Spacious and quiet Victorian house - bedroom 2",
+      "lat": 42.3094391,
+      "lng": -71.0716673,
+      "price": "800.0",
+      "available_date": "07/31/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
+      "user_id": 2985,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2437/medium/Screen_Shot_2019_02_19_at_1.22.22_PM.png?1550600645"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Suburb in the City - Great location",
+      "lat": 42.2762469,
+      "lng": -71.068371,
+      "price": "775.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Lower East Mills / Cedar Grove, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2481/thumb/face.jpg?1551469760",
+      "user_id": 2481,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2475/medium/Backyard.jpg?1551469985"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Coolidge Corner Courtyard Apt",
+      "lat": 42.3454584,
+      "lng": -71.1217582,
+      "price": "800.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "North Brookline, Brookline",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3226/thumb/Profile.jpg?1548452558",
+      "user_id": 3226,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1819/medium/DSC05728.jpeg?1548437686"
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Comfortable and secure room for rent",
+      "lat": 42.263736,
+      "lng": -71.1217117,
+      "price": "875.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Hyde Park, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4110/thumb/open-uri20190314-5156-14wikwc?1552552259",
+      "user_id": 4110,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2572/medium/P1010689.JPG?1552934487"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Cozy Victorian Room in Davis Sq",
+      "lat": 42.3676341,
+      "lng": -71.177041,
+      "price": "955.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Watertown, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_id": 115,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1637/medium/cosy1.JPG?1548434898"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Furnished Room near Tufts and Davis Sq",
+      "lat": 42.4119036,
+      "lng": -71.12705,
+      "price": "1000.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Medford, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_id": 15157,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2912/medium/Screen_Shot_2019_06_13_at_12.25.05_PM.png?1560443179"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Victorian room #2 near Harvard/Davis Sq",
+      "lat": 42.393583,
+      "lng": -71.123943,
+      "price": "1050.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "North Cambridge, Somerville",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_id": 115,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1836/medium/vic_2_bed_3.jpg?1548437732"
+      ]
+    },
+    {
+      "id": 522,
+      "name": "Large room in home near Tufts & Davis Sq",
+      "lat": 42.4119036,
+      "lng": -71.12705,
+      "price": "1050.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Medford, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_id": 15157,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2918/medium/Screen_Shot_2019_06_13_at_12.28.12_PM.png?1560443510"
+      ]
+    },
+    {
+      "id": 523,
+      "name": "Room with private sink near Tufts & Davis",
+      "lat": 42.4119036,
+      "lng": -71.12705,
+      "price": "1100.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Medford, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_id": 15157,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2924/medium/Screen_Shot_2019_06_13_at_12.34.19_PM.png?1560443762"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Spacious Victorian Room in Davis Sq",
+      "lat": 42.3676341,
+      "lng": -71.177041,
+      "price": "1100.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Watertown, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_id": 115,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1661/medium/spacious2.jpg?1548435072"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Large room with private bath",
+      "lat": 42.3708224,
+      "lng": -71.0978044,
+      "price": "1500.0",
+      "available_date": "08/01/2019",
+      "civic_badge": false,
+      "neighborhood": "The Port, Cambridge",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 40,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1515/medium/Screen_Shot_2018-11-28_at_2.34.12_PM.png?1548433434"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Furnished, Comfortable Room In Melvill Park 5 minutes or less from Shawmut station",
+      "lat": 42.2937818,
+      "lng": -71.0664115,
+      "price": "750.0",
+      "available_date": "08/04/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
+      "user_id": 41,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2426/medium/Karla_Room_3.jpeg?1550515850"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Victorian Room in Davis Sq",
+      "lat": 42.393583,
+      "lng": -71.123943,
+      "price": "1100.0",
+      "available_date": "08/10/2019",
+      "civic_badge": false,
+      "neighborhood": "North Cambridge, Somerville",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_id": 115,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1619/medium/Jasmine_5.jpg?1548434755"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Large Room / Central Location",
+      "lat": 42.3208977,
+      "lng": -71.083738,
+      "price": "800.0",
+      "available_date": "08/11/2019",
+      "civic_badge": false,
+      "neighborhood": "Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
+      "user_id": 12,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1440/medium/bedroom.JPG?1548432285"
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Top floor bedroom and bathroom near BC ",
+      "lat": 42.335507,
+      "lng": -71.1742419,
+      "price": "0.0",
+      "available_date": "08/25/2019",
+      "civic_badge": true,
+      "neighborhood": "Chestnut Hill, Newton",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15331/thumb/open-uri20190709-18108-1gfrfle?1562668390",
+      "user_id": 15331,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2993/medium/godkplicfrlxxdk12m24n9e2wnozakegatxuwvlems0.jpeg_2.png?1562668872"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Clean, Quiet non-smoking home",
+      "lat": 42.1663979,
+      "lng": -71.212871,
+      "price": "650.0",
+      "available_date": "08/25/2019",
+      "civic_badge": true,
+      "neighborhood": "East Walpole, Walpole",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2940/thumb/IMG_4062.PNG?1548454283",
+      "user_id": 2940,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1429/medium/IMG_0819.JPG?1548431527"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "Comfortable home in a diverse community",
+      "lat": 42.276257,
+      "lng": -71.025081,
+      "price": "750.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "North Quincy, Quincy",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15081/thumb/open-uri20190529-23077-yzavnp?1559166677",
+      "user_id": 15081,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2979/medium/IMG_5965.jpg?1562262137"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Suburban Treasure",
+      "lat": 42.1397215,
+      "lng": -71.1331036,
+      "price": "800.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Stoughton, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14679/thumb/IMG_5185.JPG?1559170379",
+      "user_id": 14679,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2881/medium/IMG_5187_2.JPG?1559170306"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Wonderful room in Worcester ",
+      "lat": 42.2504683,
+      "lng": -71.7687584,
+      "price": "800.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Grafton Hill, Worcester",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 34,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1470/medium/Room24.png?1548432735"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Medium-sized room between Harvard & MIT ",
+      "lat": 42.3705534,
+      "lng": -71.1053713,
+      "price": "850.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Mid-Cambridge, Cambridge",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/28/thumb/Sarah.jpg?1554913167",
+      "user_id": 28,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1394/medium/IMG_9652.JPG?1548431088"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Room in friendly household with pool.",
+      "lat": 42.4143199,
+      "lng": -71.0102873,
+      "price": "850.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Revere, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3899/thumb/Clemons1.jpg?1556377703",
+      "user_id": 3899,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2762/medium/Maureen4.jpg?1556301430"
+      ]
+    },
+    {
+      "id": 471,
+      "name": "Positive vibration and good energy home",
+      "lat": 42.2842778,
+      "lng": -71.0783991,
+      "price": "900.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Mattapan, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14754/thumb/20170826_144816.jpg?1556193736",
+      "user_id": 14754,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2751/medium/medium_20180615_130214.jpg?1556192412"
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Safari Room in Beautiful and Convenient Colonial Home ",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2489/medium/safari_room.JPG?1551810247"
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Conservatory Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2503/medium/conservatory_room.JPG?1551811337"
+      ]
+    },
+    {
+      "id": 408,
+      "name": "North Guest Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2496/medium/north_guest_room.JPG?1551810825"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "Sitting Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2524/medium/sitting_room.JPG?1551812281"
+      ]
+    },
+    {
+      "id": 413,
+      "name": "Country Flair Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2517/medium/country_flair_room.JPG?1551811997"
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Cozy Corner Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2514/medium/cozy_corner_room__1_.jpg?1551811880"
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Sun Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2501/medium/sun_room.JPG?1551811127"
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Ocean Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2519/medium/ocean_room.JPG?1551812132"
+      ]
+    },
+    {
+      "id": 411,
+      "name": "Le Boudoir Room in Beautiful Colonial Home",
+      "lat": 42.2868257,
+      "lng": -71.0620802,
+      "price": "965.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Dorchester, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_id": 4004,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2509/medium/le_boudoir_room__2_.jpeg?1551811508"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "Brownstone studio near Tufts",
+      "lat": 42.4667101,
+      "lng": -71.1273749,
+      "price": "1200.0",
+      "available_date": "09/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Winchester, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3772/thumb/IMG_0742.JPG?1548900676",
+      "user_id": 3772,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2305/medium/Screen_Shot_2019_01_31_at_2.25.16_PM.png?1548962733"
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Cleanest basement room",
+      "lat": 42.2794611,
+      "lng": -71.0985472,
+      "price": "800.0",
+      "available_date": "10/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Mattapan, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
+      "user_id": 4015,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2473/medium/E8C16542_F7B5_4BED_BA5D_7F4B9F48B5E2.jpeg?1551451574"
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Mattapan peaceful nook",
+      "lat": 42.2794611,
+      "lng": -71.0985472,
+      "price": "1000.0",
+      "available_date": "10/01/2019",
+      "civic_badge": false,
+      "neighborhood": "Mattapan, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
+      "user_id": 4015,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2462/medium/0911367D_C32A_4427_B453_E396598BC31E.jpeg?1551398574"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Room in Queen Anne Victorian",
+      "lat": 42.3414701,
+      "lng": -71.2271185,
+      "price": "825.0",
+      "available_date": "11/01/2019",
+      "civic_badge": false,
+      "neighborhood": "West Newton, Newton",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3590/thumb/image.jpg?1548452049",
+      "user_id": 3590,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2096/medium/Sandra_3.png?1548441970"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Home Away from Home",
+      "lat": 42.3355246,
+      "lng": -71.1332934,
+      "price": "910.0",
+      "available_date": "12/14/2019",
+      "civic_badge": false,
+      "neighborhood": "Aspinwall Hill, Brookline",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
+      "user_id": 3317,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1915/medium/DSC05801.JPG?1548439178"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Fun Family! ",
+      "lat": 42.27297,
+      "lng": -71.0713888,
+      "price": "750.0",
+      "available_date": "12/18/2019",
+      "civic_badge": false,
+      "neighborhood": "Mattapan, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3512/thumb/received_1775811809164515.jpeg?1548452208",
+      "user_id": 3512,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2034/medium/20180826_091510.jpg?1548440814"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Cynthia's House",
+      "lat": 42.320413,
+      "lng": -71.08568,
+      "price": "750.0",
+      "available_date": "12/26/2019",
+      "civic_badge": false,
+      "neighborhood": "Roxbury, Boston",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3122/thumb/Cynthia3122.jpg?1548805141",
+      "user_id": 3122,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2239/medium/DSC05900.JPG?1548450070"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Cozy two floor duplex",
+      "lat": 42.3901832,
+      "lng": -71.1251932,
+      "price": "600.0",
+      "available_date": "01/01/2020",
+      "civic_badge": true,
+      "neighborhood": "North Cambridge, Cambridge",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3612/thumb/Screen_Shot_2019-01-14_at_2.36.08_PM.png?1548452010",
+      "user_id": 3612,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2252/medium/DSC05886.JPG?1548451305"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Furnished room close to Assembly Square",
+      "lat": 42.3875968,
+      "lng": -71.0994968,
+      "price": "900.0",
+      "available_date": "01/01/2020",
+      "civic_badge": false,
+      "neighborhood": "Somerville, Massachusetts",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 45,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2399/medium/Assembly_Row_Somerville.jpg?1550072653"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Peaceful, comfortable, cozy apartment to share",
+      "lat": 42.4077588,
+      "lng": -71.2314462,
+      "price": "750.0",
+      "available_date": "02/15/2020",
+      "civic_badge": false,
+      "neighborhood": "North Waltham, Waltham",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3525/thumb/20161103_193243554_iOS.jpg?1548452187",
+      "user_id": 3525,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2038/medium/DSC05755.JPG?1548441127"
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Light-filled room with a view!",
+      "lat": 42.2739723,
+      "lng": -71.2326874,
+      "price": "0.0",
+      "available_date": "03/01/2020",
+      "civic_badge": true,
+      "neighborhood": "Needham, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14380/thumb/IMG_1741.JPG?1554154387",
+      "user_id": 14380,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2681/medium/data?1554314789"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Cozy room in flat near Tufts University",
+      "lat": 42.3999782,
+      "lng": -71.1099502,
+      "price": "850.0",
+      "available_date": "06/01/2020",
+      "civic_badge": false,
+      "neighborhood": "South Medford, Medford",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3837/thumb/MJ_at_OSC.jpg?1549939291",
+      "user_id": 3837,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/2365/medium/Bedroom.jpg?1549940187"
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Tranquil rooms in historic home near Orange line",
+      "lat": 42.4313271,
+      "lng": -71.0754742,
+      "price": "900.0",
+      "available_date": "06/01/2020",
+      "civic_badge": false,
+      "neighborhood": "Malden, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3203/thumb/merry_go_round.jpg?1548452873",
+      "user_id": 3203,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1769/medium/House_Living_Room.png?1548436580"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Sunny bedroom on waterfront w/ access to transportation ",
+      "lat": 42.3890322,
+      "lng": -71.0447511,
+      "price": "800.0",
+      "available_date": "08/01/2020",
+      "civic_badge": false,
+      "neighborhood": "Chelsea, Massachusetts",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/33/thumb/andy_and_teri.JPG?1548454528",
+      "user_id": 33,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1948/medium/lvgroom05-11-10_1915.jpg?1548439684"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Room in welcoming home three houses away from the Charles River",
+      "lat": 42.3617619,
+      "lng": -71.1711,
+      "price": "600.0",
+      "available_date": "09/02/2020",
+      "civic_badge": true,
+      "neighborhood": "Watertown, Massachusetts",
+      "user_avatar": "/images/thumb/default_avatar.png",
+      "user_id": 1087,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1810/medium/Ginger_House_14.1.jpg?1548437529"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Large Sunny bedroom in family home minutes from Commuter Rail and downtown buses",
+      "lat": 42.3536631,
+      "lng": -71.2072089,
+      "price": "650.0",
+      "available_date": "10/29/2020",
+      "civic_badge": true,
+      "neighborhood": "Newtonville, Newton",
+      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2989/thumb/7430F1E8-AF04-4389-A151-A0FD49189F95.jpeg?1548454080",
+      "user_id": 2989,
+      "favorite": false,
+      "images": [
+        "//d2brd42s168wbg.cloudfront.net/photos/images/1524/medium/B5745C6C-788D-4C46-8209-0534ACE72491.jpeg?1548433604"
+      ]
+    }
+  ]
+}

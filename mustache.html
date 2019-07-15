@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mustache</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.1.0/mustache.min.js"></script>
+</head>
+<body>
+<div class="container">
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+//	$.when($.ajax({url: "/data/template.mst", dataType: 'text'}),$.ajax({url: "/data/data.json"}))
+//	.done(function(template, data){
+//		Mustache.parse("/data/template.mst");
+//		var rendered = Mustache.render(template[0], {panels: data[0].panels});
+var jqxhr = $.getJSON( "data/data.json", function() {
+  console.log( "success" );
+})
+  .done(function() {
+    console.log( "second success" );
+  })
+  .fail(function() {
+    console.log( "error" );
+  })
+  .always(function() {
+    console.log( "complete" );
+  });
+var template = "data/template.mst";
+var person = "/data/data.json";
+var html = Mustache.to_html(template, person);
+		$(".container").html(html);
+//	})
+//	.fail(function(){
+//		alert("Sorry there was an error.");
+//	});
+});
+</script>
+
+</body>
+</html>

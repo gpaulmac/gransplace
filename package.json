@@ -1,0 +1,30 @@
+{
+  "name": "gransplace",
+  "version": "0.0.1",
+  "description": "gransplace initial demo",
+  "keywords": [
+    "node.js",
+    "express.js",
+    "swagger"
+  ],
+  "author": "Gibu Paul",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-eslint": "4.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "eslint-plugin-mocha": "^4.11.0",
+    "eslint-plugin-node": "5.1.1"
+  },
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "hbs": "^4.0.4",
+    "method-override": "2.3.9",
+    "mongoose": "4.11.5",
+    "swagger-ui-express": "2.0.6"
+  },
+  "engines": {
+    "node": ">=6.11.0"
+  }
+}
