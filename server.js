@@ -15,6 +15,10 @@ var express = require('express'),
 var mongoose = require('mongoose'),
   Schema = mongoose.Schema;
 
+
+
+
+
 //mongoose.connect('mongodb://localhost:27017/swagger-demo');
 
 var UserSchema = new Schema({
@@ -41,6 +45,13 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 app.use(bodyParser.json());
+
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, Authorization ");
+  next();
+});
 
 //middleware for create
 var createUser = function (req, res, next) {

@@ -11,11 +11,11 @@
       "available_date": "Now",
       "civic_badge": true,
       "neighborhood": "Dudley / Brunswick King, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2900/thumb/17855471_1626827063997326_2937286620135846178_o_%281%29.jpg?1548454202",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2900/thumb/17855471_1626827063997326_2937286620135846178_o_%281%29.jpg?1548454202",
       "user_id": 2900,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1431/medium/Florence_Bedroom_cropped.png?1548432200"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1431/medium/Florence_Bedroom_cropped.png?1548432200"
       ]
     },
     {
@@ -27,11 +27,11 @@
       "available_date": "Now",
       "civic_badge": true,
       "neighborhood": "Northbridge, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4052/thumb/meandbike.jpg?1552573362",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4052/thumb/meandbike.jpg?1552573362",
       "user_id": 4052,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2533/medium/bedroom.jpg?1552420413"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2533/medium/bedroom.jpg?1552420413"
       ]
     },
     {
@@ -43,11 +43,11 @@
       "available_date": "Now",
       "civic_badge": true,
       "neighborhood": "Highlands, Lowell",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/1809/thumb/IMG_1161_%281%29.jpg?1548454549",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/1809/thumb/IMG_1161_%281%29.jpg?1548454549",
       "user_id": 1809,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1936/medium/IMG_0186_%281%29.jpg?1548439404"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1936/medium/IMG_0186_%281%29.jpg?1548439404"
       ]
     },
     {
@@ -59,11 +59,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "West Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2834/thumb/MVIMG_20181014_094528.jpg?1548454352",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2834/thumb/MVIMG_20181014_094528.jpg?1548454352",
       "user_id": 2834,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2151/medium/CBD_Pixel.png?1548442963"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2151/medium/CBD_Pixel.png?1548442963"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "user_id": 2966,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1451/medium/IMG_20180820_172921542.jpg?1548432506"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1451/medium/IMG_20180820_172921542.jpg?1548432506"
       ]
     },
     {
@@ -91,11 +91,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Roslindale, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4187/thumb/16C4816F-72A6-4ECC-AA90-ED8034373379.jpeg?1553537967",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4187/thumb/16C4816F-72A6-4ECC-AA90-ED8034373379.jpeg?1553537967",
       "user_id": 4187,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2615/medium/FC5EE4A5_E478_425B_B68D_676CEEC00B66.jpeg?1553538626"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2615/medium/FC5EE4A5_E478_425B_B68D_676CEEC00B66.jpeg?1553538626"
       ]
     },
     {
@@ -107,11 +107,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
       "user_id": 12,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1384/medium/living_room2.JPG?1548430952"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1384/medium/living_room2.JPG?1548430952"
       ]
     },
     {
@@ -123,11 +123,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
       "user_id": 2985,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1492/medium/image.jpg?1548432973"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1492/medium/image.jpg?1548432973"
       ]
     },
     {
@@ -143,7 +143,7 @@
       "user_id": 3141,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2400/medium/Roslindale_Sign.jpg?1550072907"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2400/medium/Roslindale_Sign.jpg?1550072907"
       ]
     },
     {
@@ -155,11 +155,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Berlin, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
       "user_id": 2566,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2177/medium/20161020_121749-EFFECTS.jpg?1548448369"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2177/medium/20161020_121749-EFFECTS.jpg?1548448369"
       ]
     },
     {
@@ -171,11 +171,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/47/thumb/F05669D7-24B5-4C7A-9187-200A33B28BB7.JPG?1548454667",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/47/thumb/F05669D7-24B5-4C7A-9187-200A33B28BB7.JPG?1548454667",
       "user_id": 47,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1547/medium/child's_bedroom2.jpg?1548433893"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1547/medium/child's_bedroom2.jpg?1548433893"
       ]
     },
     {
@@ -187,11 +187,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
       "user_id": 41,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2780/medium/Karla5.png?1556635022"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2780/medium/Karla5.png?1556635022"
       ]
     },
     {
@@ -203,11 +203,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Roslindale, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3376/thumb/IMG_20190605_121708.jpg?1559751480",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3376/thumb/IMG_20190605_121708.jpg?1559751480",
       "user_id": 3376,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1990/medium/Room317.png?1548440147"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1990/medium/Room317.png?1548440147"
       ]
     },
     {
@@ -223,7 +223,7 @@
       "user_id": 89,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1572/medium/Room40.png?1548434119"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1572/medium/Room40.png?1548434119"
       ]
     },
     {
@@ -235,11 +235,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Aspinwall Hill, Brookline",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
       "user_id": 3317,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2644/medium/Screen_Shot_2019_03_27_at_5.41.51_PM.png?1553723068"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2644/medium/Screen_Shot_2019_03_27_at_5.41.51_PM.png?1553723068"
       ]
     },
     {
@@ -251,11 +251,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Jamaica Plain, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14818/thumb/Philip_Levine_.png?1558446932",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14818/thumb/Philip_Levine_.png?1558446932",
       "user_id": 14818,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2957/medium/DSC05947.JPG?1560868336"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2957/medium/DSC05947.JPG?1560868336"
       ]
     },
     {
@@ -267,11 +267,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Revere, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/1370/thumb/D2FAC700-F69A-40A2-979F-2AD3174A88C7.jpeg?1548453771",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/1370/thumb/D2FAC700-F69A-40A2-979F-2AD3174A88C7.jpeg?1548453771",
       "user_id": 1370,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1602/medium/FDA4B42D-93CF-43A8-B405-304AC61DAE51.jpg?1548434410"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1602/medium/FDA4B42D-93CF-43A8-B405-304AC61DAE51.jpg?1548434410"
       ]
     },
     {
@@ -283,11 +283,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Hyde Park, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14444/thumb/Jack_in_his_yeard_October__6__2011.JPG?1557280584",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14444/thumb/Jack_in_his_yeard_October__6__2011.JPG?1557280584",
       "user_id": 14444,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2700/medium/Screen_Shot_2019_04_04_at_5.48.12_PM.png?1554414537"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2700/medium/Screen_Shot_2019_04_04_at_5.48.12_PM.png?1554414537"
       ]
     },
     {
@@ -299,11 +299,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Avon, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3142/thumb/20884c69-a9b7-4186-a91c-b19b567e831d.jpg?1548453028",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3142/thumb/20884c69-a9b7-4186-a91c-b19b567e831d.jpg?1548453028",
       "user_id": 3142,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1681/medium/063d6ec7-6ff8-44ab-9cf6-ef15128be2a7.jpg?1548435236"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1681/medium/063d6ec7-6ff8-44ab-9cf6-ef15128be2a7.jpg?1548435236"
       ]
     },
     {
@@ -315,11 +315,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Concord, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3328/thumb/Wendy_Cowen_Profile_Picture.jpg?1548452312",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3328/thumb/Wendy_Cowen_Profile_Picture.jpg?1548452312",
       "user_id": 3328,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1980/medium/listing315_faith120618_8_-_BEDROOM.jpg?1548440097"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1980/medium/listing315_faith120618_8_-_BEDROOM.jpg?1548440097"
       ]
     },
     {
@@ -331,11 +331,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Pepperell, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4131/thumb/NECC_Photo1.jpg?1552699946",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4131/thumb/NECC_Photo1.jpg?1552699946",
       "user_id": 4131,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2552/medium/house_front.JPG?1552699705"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2552/medium/house_front.JPG?1552699705"
       ]
     },
     {
@@ -347,11 +347,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
       "user_id": 3954,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2440/medium/20140104_111008.jpg?1550845768"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2440/medium/20140104_111008.jpg?1550845768"
       ]
     },
     {
@@ -363,11 +363,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3954/thumb/Angel.jpg?1550855609",
       "user_id": 3954,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2451/medium/Screen_Shot_2019_02_22_at_12.36.01_PM.png?1550857460"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2451/medium/Screen_Shot_2019_02_22_at_12.36.01_PM.png?1550857460"
       ]
     },
     {
@@ -379,11 +379,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Berlin, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2566/thumb/me.jpg?1548454459",
       "user_id": 2566,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2167/medium/Wildflower_14.jpg?1548448217"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2167/medium/Wildflower_14.jpg?1548448217"
       ]
     },
     {
@@ -395,11 +395,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Lincoln, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3049/thumb/IMG_5724.jpg?1561672436",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3049/thumb/IMG_5724.jpg?1561672436",
       "user_id": 3049,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1571/medium/Screen_Shot_2018-11-28_at_2.55.34_PM.png?1548434053"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1571/medium/Screen_Shot_2018-11-28_at_2.55.34_PM.png?1548434053"
       ]
     },
     {
@@ -411,11 +411,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Highlands, Lowell",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2960/thumb/16403366_10154952487043735_1557864779784015500_o.jpg?1548454168",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2960/thumb/16403366_10154952487043735_1557864779784015500_o.jpg?1548454168",
       "user_id": 2960,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1445/medium/11.JPG?1548432291"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1445/medium/11.JPG?1548432291"
       ]
     },
     {
@@ -427,11 +427,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Franklin, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3039/thumb/view.jpg?1548454026",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3039/thumb/view.jpg?1548454026",
       "user_id": 3039,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1570/medium/pool.jpg?1548434022"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1570/medium/pool.jpg?1548434022"
       ]
     },
     {
@@ -443,11 +443,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Brockton, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3751/thumb/MathieuR_FB03.jpg?1548878812",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3751/thumb/MathieuR_FB03.jpg?1548878812",
       "user_id": 3751,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2300/medium/rent_kitchen_for_zillow_nesterly_hotpad.jpg?1548876728"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2300/medium/rent_kitchen_for_zillow_nesterly_hotpad.jpg?1548876728"
       ]
     },
     {
@@ -459,11 +459,11 @@
       "available_date": "Now",
       "civic_badge": false,
       "neighborhood": "Winter Hill, Somerville",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/38/thumb/pronto_copy.jpg?1548454764",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/38/thumb/pronto_copy.jpg?1548454764",
       "user_id": 38,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1505/medium/7a_Schulman_Twin_Room1.JPG?1548433271"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1505/medium/7a_Schulman_Twin_Room1.JPG?1548433271"
       ]
     },
     {
@@ -475,11 +475,11 @@
       "available_date": "07/15/2019",
       "civic_badge": true,
       "neighborhood": "Sutton, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14966/thumb/IMG_3450.jpg?1558088723",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14966/thumb/IMG_3450.jpg?1558088723",
       "user_id": 14966,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2865/medium/7F4A8739_BFA6_4164_9DB7_89CFEE820C1C.jpeg?1558388107"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2865/medium/7F4A8739_BFA6_4164_9DB7_89CFEE820C1C.jpeg?1558388107"
       ]
     },
     {
@@ -491,11 +491,11 @@
       "available_date": "07/15/2019",
       "civic_badge": false,
       "neighborhood": "Wellesley Lower Falls, Wellesley",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
       "user_id": 3195,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2559/medium/D9D710A1_C946_4D8C_886D_3607C3CD936C.jpeg?1552757766"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2559/medium/D9D710A1_C946_4D8C_886D_3607C3CD936C.jpeg?1552757766"
       ]
     },
     {
@@ -507,11 +507,11 @@
       "available_date": "07/15/2019",
       "civic_badge": false,
       "neighborhood": "Wellesley Lower Falls, Wellesley",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3195/thumb/5C7D2E66-1CFA-4480-85F1-2C915B84BD85.jpeg?1548452531",
       "user_id": 3195,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1851/medium/BCB91E1E-DD9A-49C6-93ED-955A5EC74C1C.jpeg?1548438202"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1851/medium/BCB91E1E-DD9A-49C6-93ED-955A5EC74C1C.jpeg?1548438202"
       ]
     },
     {
@@ -523,11 +523,11 @@
       "available_date": "07/15/2019",
       "civic_badge": false,
       "neighborhood": "Fitchburg, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15342/thumb/20190405_152019.jpg?1562871075",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15342/thumb/20190405_152019.jpg?1562871075",
       "user_id": 15342,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/3000/medium/Jason2.jpg?1562939770"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/3000/medium/Jason2.jpg?1562939770"
       ]
     },
     {
@@ -539,11 +539,11 @@
       "available_date": "07/27/2019",
       "civic_badge": false,
       "neighborhood": "Hyde Park, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3789/thumb/20180818_140945_001.jpg?1548993750",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3789/thumb/20180818_140945_001.jpg?1548993750",
       "user_id": 3789,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2773/medium/53379728_10155910053551319_3218170646445948928_n.jpg?1556562693"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2773/medium/53379728_10155910053551319_3218170646445948928_n.jpg?1556562693"
       ]
     },
     {
@@ -555,11 +555,11 @@
       "available_date": "07/31/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2985/thumb/201704_290455241061761_2128475624_o.jpg?1548452123",
       "user_id": 2985,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2437/medium/Screen_Shot_2019_02_19_at_1.22.22_PM.png?1550600645"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2437/medium/Screen_Shot_2019_02_19_at_1.22.22_PM.png?1550600645"
       ]
     },
     {
@@ -571,11 +571,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Lower East Mills / Cedar Grove, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2481/thumb/face.jpg?1551469760",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2481/thumb/face.jpg?1551469760",
       "user_id": 2481,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2475/medium/Backyard.jpg?1551469985"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2475/medium/Backyard.jpg?1551469985"
       ]
     },
     {
@@ -587,11 +587,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "North Brookline, Brookline",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3226/thumb/Profile.jpg?1548452558",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3226/thumb/Profile.jpg?1548452558",
       "user_id": 3226,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1819/medium/DSC05728.jpeg?1548437686"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1819/medium/DSC05728.jpeg?1548437686"
       ]
     },
     {
@@ -603,11 +603,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Hyde Park, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4110/thumb/open-uri20190314-5156-14wikwc?1552552259",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4110/thumb/open-uri20190314-5156-14wikwc?1552552259",
       "user_id": 4110,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2572/medium/P1010689.JPG?1552934487"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2572/medium/P1010689.JPG?1552934487"
       ]
     },
     {
@@ -619,11 +619,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Watertown, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
       "user_id": 115,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1637/medium/cosy1.JPG?1548434898"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1637/medium/cosy1.JPG?1548434898"
       ]
     },
     {
@@ -635,11 +635,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Medford, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
       "user_id": 15157,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2912/medium/Screen_Shot_2019_06_13_at_12.25.05_PM.png?1560443179"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2912/medium/Screen_Shot_2019_06_13_at_12.25.05_PM.png?1560443179"
       ]
     },
     {
@@ -651,11 +651,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "North Cambridge, Somerville",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
       "user_id": 115,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1836/medium/vic_2_bed_3.jpg?1548437732"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1836/medium/vic_2_bed_3.jpg?1548437732"
       ]
     },
     {
@@ -667,11 +667,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Medford, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
       "user_id": 15157,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2918/medium/Screen_Shot_2019_06_13_at_12.28.12_PM.png?1560443510"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2918/medium/Screen_Shot_2019_06_13_at_12.28.12_PM.png?1560443510"
       ]
     },
     {
@@ -683,11 +683,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Medford, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15157/thumb/2016-07-20_13.49.27_keywest_photo_cropped.png?1560759621",
       "user_id": 15157,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2924/medium/Screen_Shot_2019_06_13_at_12.34.19_PM.png?1560443762"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2924/medium/Screen_Shot_2019_06_13_at_12.34.19_PM.png?1560443762"
       ]
     },
     {
@@ -699,11 +699,11 @@
       "available_date": "08/01/2019",
       "civic_badge": false,
       "neighborhood": "Watertown, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
       "user_id": 115,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1661/medium/spacious2.jpg?1548435072"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1661/medium/spacious2.jpg?1548435072"
       ]
     },
     {
@@ -719,7 +719,7 @@
       "user_id": 40,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1515/medium/Screen_Shot_2018-11-28_at_2.34.12_PM.png?1548433434"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1515/medium/Screen_Shot_2018-11-28_at_2.34.12_PM.png?1548433434"
       ]
     },
     {
@@ -731,11 +731,11 @@
       "available_date": "08/04/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/41/thumb/6636EF96-3155-48C5-9912-9A9CECD0A072.jpeg?1548454723",
       "user_id": 41,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2426/medium/Karla_Room_3.jpeg?1550515850"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2426/medium/Karla_Room_3.jpeg?1550515850"
       ]
     },
     {
@@ -747,11 +747,11 @@
       "available_date": "08/10/2019",
       "civic_badge": false,
       "neighborhood": "North Cambridge, Somerville",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/115/thumb/nesterly_prof.jpeg?1548454625",
       "user_id": 115,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1619/medium/Jasmine_5.jpg?1548434755"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1619/medium/Jasmine_5.jpg?1548434755"
       ]
     },
     {
@@ -763,11 +763,11 @@
       "available_date": "08/11/2019",
       "civic_badge": false,
       "neighborhood": "Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/12/thumb/Dale_host.jpg?1548454322",
       "user_id": 12,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1440/medium/bedroom.JPG?1548432285"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1440/medium/bedroom.JPG?1548432285"
       ]
     },
     {
@@ -779,11 +779,11 @@
       "available_date": "08/25/2019",
       "civic_badge": true,
       "neighborhood": "Chestnut Hill, Newton",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15331/thumb/open-uri20190709-18108-1gfrfle?1562668390",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15331/thumb/open-uri20190709-18108-1gfrfle?1562668390",
       "user_id": 15331,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2993/medium/godkplicfrlxxdk12m24n9e2wnozakegatxuwvlems0.jpeg_2.png?1562668872"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2993/medium/godkplicfrlxxdk12m24n9e2wnozakegatxuwvlems0.jpeg_2.png?1562668872"
       ]
     },
     {
@@ -795,11 +795,11 @@
       "available_date": "08/25/2019",
       "civic_badge": true,
       "neighborhood": "East Walpole, Walpole",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2940/thumb/IMG_4062.PNG?1548454283",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2940/thumb/IMG_4062.PNG?1548454283",
       "user_id": 2940,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1429/medium/IMG_0819.JPG?1548431527"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1429/medium/IMG_0819.JPG?1548431527"
       ]
     },
     {
@@ -811,11 +811,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "North Quincy, Quincy",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/15081/thumb/open-uri20190529-23077-yzavnp?1559166677",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/15081/thumb/open-uri20190529-23077-yzavnp?1559166677",
       "user_id": 15081,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2979/medium/IMG_5965.jpg?1562262137"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2979/medium/IMG_5965.jpg?1562262137"
       ]
     },
     {
@@ -827,11 +827,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Stoughton, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14679/thumb/IMG_5185.JPG?1559170379",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14679/thumb/IMG_5185.JPG?1559170379",
       "user_id": 14679,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2881/medium/IMG_5187_2.JPG?1559170306"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2881/medium/IMG_5187_2.JPG?1559170306"
       ]
     },
     {
@@ -847,7 +847,7 @@
       "user_id": 34,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1470/medium/Room24.png?1548432735"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1470/medium/Room24.png?1548432735"
       ]
     },
     {
@@ -859,11 +859,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Mid-Cambridge, Cambridge",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/28/thumb/Sarah.jpg?1554913167",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/28/thumb/Sarah.jpg?1554913167",
       "user_id": 28,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1394/medium/IMG_9652.JPG?1548431088"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1394/medium/IMG_9652.JPG?1548431088"
       ]
     },
     {
@@ -875,11 +875,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Revere, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3899/thumb/Clemons1.jpg?1556377703",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3899/thumb/Clemons1.jpg?1556377703",
       "user_id": 3899,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2762/medium/Maureen4.jpg?1556301430"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2762/medium/Maureen4.jpg?1556301430"
       ]
     },
     {
@@ -891,11 +891,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Mattapan, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14754/thumb/20170826_144816.jpg?1556193736",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14754/thumb/20170826_144816.jpg?1556193736",
       "user_id": 14754,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2751/medium/medium_20180615_130214.jpg?1556192412"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2751/medium/medium_20180615_130214.jpg?1556192412"
       ]
     },
     {
@@ -907,11 +907,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2489/medium/safari_room.JPG?1551810247"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2489/medium/safari_room.JPG?1551810247"
       ]
     },
     {
@@ -923,11 +923,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2503/medium/conservatory_room.JPG?1551811337"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2503/medium/conservatory_room.JPG?1551811337"
       ]
     },
     {
@@ -939,11 +939,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2496/medium/north_guest_room.JPG?1551810825"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2496/medium/north_guest_room.JPG?1551810825"
       ]
     },
     {
@@ -955,11 +955,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2524/medium/sitting_room.JPG?1551812281"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2524/medium/sitting_room.JPG?1551812281"
       ]
     },
     {
@@ -971,11 +971,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2517/medium/country_flair_room.JPG?1551811997"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2517/medium/country_flair_room.JPG?1551811997"
       ]
     },
     {
@@ -987,11 +987,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2514/medium/cozy_corner_room__1_.jpg?1551811880"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2514/medium/cozy_corner_room__1_.jpg?1551811880"
       ]
     },
     {
@@ -1003,11 +1003,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2501/medium/sun_room.JPG?1551811127"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2501/medium/sun_room.JPG?1551811127"
       ]
     },
     {
@@ -1019,11 +1019,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2519/medium/ocean_room.JPG?1551812132"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2519/medium/ocean_room.JPG?1551812132"
       ]
     },
     {
@@ -1035,11 +1035,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Dorchester, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4004/thumb/Attachment-1.jpeg?1551300930",
       "user_id": 4004,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2509/medium/le_boudoir_room__2_.jpeg?1551811508"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2509/medium/le_boudoir_room__2_.jpeg?1551811508"
       ]
     },
     {
@@ -1051,11 +1051,11 @@
       "available_date": "09/01/2019",
       "civic_badge": false,
       "neighborhood": "Winchester, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3772/thumb/IMG_0742.JPG?1548900676",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3772/thumb/IMG_0742.JPG?1548900676",
       "user_id": 3772,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2305/medium/Screen_Shot_2019_01_31_at_2.25.16_PM.png?1548962733"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2305/medium/Screen_Shot_2019_01_31_at_2.25.16_PM.png?1548962733"
       ]
     },
     {
@@ -1067,11 +1067,11 @@
       "available_date": "10/01/2019",
       "civic_badge": false,
       "neighborhood": "Mattapan, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
       "user_id": 4015,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2473/medium/E8C16542_F7B5_4BED_BA5D_7F4B9F48B5E2.jpeg?1551451574"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2473/medium/E8C16542_F7B5_4BED_BA5D_7F4B9F48B5E2.jpeg?1551451574"
       ]
     },
     {
@@ -1083,11 +1083,11 @@
       "available_date": "10/01/2019",
       "civic_badge": false,
       "neighborhood": "Mattapan, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/4015/thumb/open-uri20190228-20094-1o9p4z6?1551395898",
       "user_id": 4015,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2462/medium/0911367D_C32A_4427_B453_E396598BC31E.jpeg?1551398574"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2462/medium/0911367D_C32A_4427_B453_E396598BC31E.jpeg?1551398574"
       ]
     },
     {
@@ -1099,11 +1099,11 @@
       "available_date": "11/01/2019",
       "civic_badge": false,
       "neighborhood": "West Newton, Newton",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3590/thumb/image.jpg?1548452049",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3590/thumb/image.jpg?1548452049",
       "user_id": 3590,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2096/medium/Sandra_3.png?1548441970"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2096/medium/Sandra_3.png?1548441970"
       ]
     },
     {
@@ -1115,11 +1115,11 @@
       "available_date": "12/14/2019",
       "civic_badge": false,
       "neighborhood": "Aspinwall Hill, Brookline",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3317/thumb/Screen_Shot_2019-01-29_at_8.17.24_PM.png?1548811076",
       "user_id": 3317,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1915/medium/DSC05801.JPG?1548439178"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1915/medium/DSC05801.JPG?1548439178"
       ]
     },
     {
@@ -1131,11 +1131,11 @@
       "available_date": "12/18/2019",
       "civic_badge": false,
       "neighborhood": "Mattapan, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3512/thumb/received_1775811809164515.jpeg?1548452208",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3512/thumb/received_1775811809164515.jpeg?1548452208",
       "user_id": 3512,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2034/medium/20180826_091510.jpg?1548440814"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2034/medium/20180826_091510.jpg?1548440814"
       ]
     },
     {
@@ -1147,11 +1147,11 @@
       "available_date": "12/26/2019",
       "civic_badge": false,
       "neighborhood": "Roxbury, Boston",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3122/thumb/Cynthia3122.jpg?1548805141",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3122/thumb/Cynthia3122.jpg?1548805141",
       "user_id": 3122,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2239/medium/DSC05900.JPG?1548450070"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2239/medium/DSC05900.JPG?1548450070"
       ]
     },
     {
@@ -1163,11 +1163,11 @@
       "available_date": "01/01/2020",
       "civic_badge": true,
       "neighborhood": "North Cambridge, Cambridge",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3612/thumb/Screen_Shot_2019-01-14_at_2.36.08_PM.png?1548452010",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3612/thumb/Screen_Shot_2019-01-14_at_2.36.08_PM.png?1548452010",
       "user_id": 3612,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2252/medium/DSC05886.JPG?1548451305"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2252/medium/DSC05886.JPG?1548451305"
       ]
     },
     {
@@ -1183,7 +1183,7 @@
       "user_id": 45,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2399/medium/Assembly_Row_Somerville.jpg?1550072653"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2399/medium/Assembly_Row_Somerville.jpg?1550072653"
       ]
     },
     {
@@ -1195,11 +1195,11 @@
       "available_date": "02/15/2020",
       "civic_badge": false,
       "neighborhood": "North Waltham, Waltham",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3525/thumb/20161103_193243554_iOS.jpg?1548452187",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3525/thumb/20161103_193243554_iOS.jpg?1548452187",
       "user_id": 3525,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2038/medium/DSC05755.JPG?1548441127"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2038/medium/DSC05755.JPG?1548441127"
       ]
     },
     {
@@ -1211,11 +1211,11 @@
       "available_date": "03/01/2020",
       "civic_badge": true,
       "neighborhood": "Needham, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/14380/thumb/IMG_1741.JPG?1554154387",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/14380/thumb/IMG_1741.JPG?1554154387",
       "user_id": 14380,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2681/medium/data?1554314789"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2681/medium/data?1554314789"
       ]
     },
     {
@@ -1227,11 +1227,11 @@
       "available_date": "06/01/2020",
       "civic_badge": false,
       "neighborhood": "South Medford, Medford",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3837/thumb/MJ_at_OSC.jpg?1549939291",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3837/thumb/MJ_at_OSC.jpg?1549939291",
       "user_id": 3837,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/2365/medium/Bedroom.jpg?1549940187"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/2365/medium/Bedroom.jpg?1549940187"
       ]
     },
     {
@@ -1243,11 +1243,11 @@
       "available_date": "06/01/2020",
       "civic_badge": false,
       "neighborhood": "Malden, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/3203/thumb/merry_go_round.jpg?1548452873",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/3203/thumb/merry_go_round.jpg?1548452873",
       "user_id": 3203,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1769/medium/House_Living_Room.png?1548436580"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1769/medium/House_Living_Room.png?1548436580"
       ]
     },
     {
@@ -1259,11 +1259,11 @@
       "available_date": "08/01/2020",
       "civic_badge": false,
       "neighborhood": "Chelsea, Massachusetts",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/33/thumb/andy_and_teri.JPG?1548454528",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/33/thumb/andy_and_teri.JPG?1548454528",
       "user_id": 33,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1948/medium/lvgroom05-11-10_1915.jpg?1548439684"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1948/medium/lvgroom05-11-10_1915.jpg?1548439684"
       ]
     },
     {
@@ -1279,7 +1279,7 @@
       "user_id": 1087,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1810/medium/Ginger_House_14.1.jpg?1548437529"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1810/medium/Ginger_House_14.1.jpg?1548437529"
       ]
     },
     {
@@ -1291,11 +1291,11 @@
       "available_date": "10/29/2020",
       "civic_badge": true,
       "neighborhood": "Newtonville, Newton",
-      "user_avatar": "//d2brd42s168wbg.cloudfront.net/users/avatars/2989/thumb/7430F1E8-AF04-4389-A151-A0FD49189F95.jpeg?1548454080",
+      "user_avatar": "https://d2brd42s168wbg.cloudfront.net/users/avatars/2989/thumb/7430F1E8-AF04-4389-A151-A0FD49189F95.jpeg?1548454080",
       "user_id": 2989,
       "favorite": false,
       "images": [
-        "//d2brd42s168wbg.cloudfront.net/photos/images/1524/medium/B5745C6C-788D-4C46-8209-0534ACE72491.jpeg?1548433604"
+        "https://d2brd42s168wbg.cloudfront.net/photos/images/1524/medium/B5745C6C-788D-4C46-8209-0534ACE72491.jpeg?1548433604"
       ]
     }
   ]

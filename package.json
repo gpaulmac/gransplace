@@ -7,6 +7,9 @@
     "express.js",
     "swagger"
   ],
+   "scripts": {
+    "start": " node server.js"
+  },
   "author": "Gibu Paul",
   "license": "MIT",
   "devDependencies": {
