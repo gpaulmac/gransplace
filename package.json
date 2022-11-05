@@ -10,7 +10,7 @@
   "author": "Gibu Paul",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "gulp-eslint": "4.0.0",
     "gulp-nodemon": "^2.2.1",
     "eslint-plugin-mocha": "^4.11.0",
